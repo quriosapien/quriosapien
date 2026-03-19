@@ -18,7 +18,7 @@
 - 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general. Happy to guide and help!
 
 - 📫 How to reach me: [On Twitter](https://twitter.com/quriosapien) or [On LinkedIn](https://linkedin.com/in/heykumargaurav)
-- ⚡ Fun fact: I enjoy watching Sunsets, Anime and Movies. Buidling road-trip enthu community at [Qruze]([https://youtube.com](https://www.youtube.com/results?search_query=road+trip+playlists)) (discontinued...)
+- ⚡ Fun fact: I enjoy watching Sunsets, Anime and Movies. Buidling road-trip enthu community at [Qruze](https://www.youtube.com/results?search_query=road+trip+playlists) - (discontinued now...)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heykumargaurav)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/QurioSapien)
