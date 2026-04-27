@@ -24,4 +24,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/QurioSapien)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6512858/kumar-gaurav)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@QurioSapien)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/QurioSapien)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/QurioSapien)](https://x.com/intent/follow?screen_name=QurioSapien)
