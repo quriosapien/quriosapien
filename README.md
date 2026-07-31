@@ -15,11 +15,10 @@
 
 - 🔭 I’m presently looking for work - [view my linkedin profile](https://linkedin.com/in/heykumargaurav).
 - 🌱 Learning the non-tech side of Entrepreneurship,
-- 🥷🏻 Experienced deveoper in JavaScript, VueJS, NodeJS, Deno & GoLang.
-- 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general. Happy to guide and help!  
-
+- 🥷🏻 Experienced developer in JavaScript, NodeJS, TypeScript, ReactJS & VueJS, Deno and GoLang.
+- 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general. Happy to guide and help!
 - 📫 How to reach me: [On X/Twitter](https://x.com/QurioSapien) or [On LinkedIn](https://linkedin.com/in/heykumargaurav)
-- ⚡ Fun fact: I enjoy watching Sunsets, Anime and Movies. Buidling road-trip enthu community at [Qruze](https://www.youtube.com/results?search_query=road+trip+playlists) - (discontinued now :|)
+- ⚡ Fun fact about me: I enjoy watching Sunsets, anime and good-story movies. Always enthu to play any sport, go for a drive or to try new dishes. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heykumargaurav)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/QurioSapien)
