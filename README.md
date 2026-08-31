@@ -13,12 +13,13 @@
 
 ### 
 
-- 🔭 I’m presently looking for work - [Check it here!](https://linkedin.com/in/heykumargaurav).
-- 🌱 Learning the non-tech side of Entrepreneurship,
-- 🥷🏻 Experienced developer in JavaScript, NodeJS, TypeScript, ReactJS & VueJS, Deno and GoLang.
-- 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general. Happy to guide and help!
-- 📫 How to reach me: [On X/Twitter](https://x.com/QurioSapien) or [On LinkedIn](https://linkedin.com/in/heykumargaurav)
-- ⚡ Fun fact about me: I enjoy watching Sunsets, anime and good-story movies. Always enthu to play any sport, go for a drive or to try new dishes. 
+Software Engineer at [@maxhomeai](https://github.com/maxhomeai), where I build the platform end to end. Before that I founded **Quido** — which is why I still care as much about *why* we're shipping as *what*.
+
+Mostly TypeScript these days: Node, React, Vue, Deno, some Go. The templates pinned below are the ones I spin up whenever an idea won't wait for a proper setup.
+
+**Open to conversations** about fullstack architecture, zero-to-one, or career decisions — the founder seat and the IC seat both taught me things worth passing on. Find me on [X](https://x.com/QurioSapien) or [LinkedIn](https://linkedin.com/in/heykumargaurav).
+
+*Sunsets, anime, story-driven films, and any sport someone's short a player for.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heykumargaurav)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/QurioSapien)
